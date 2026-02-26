@@ -1,4 +1,6 @@
-# GrimSpeak
+# GrimSpeak: A Controlled Natural Language for AI Agent Containment
+
+**Created by Chris Karley**
 
 A controlled grammar for AI agent containment.
 
