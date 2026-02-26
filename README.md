@@ -1,4 +1,3 @@
-[README(2).md](https://github.com/user-attachments/files/25579084/README.2.md)
 # GrimSpeak
 
 A controlled grammar for AI agent containment.
