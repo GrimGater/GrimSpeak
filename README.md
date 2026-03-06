@@ -4,6 +4,7 @@ SPDX-License-Identifier: MIT
 -->
 
 # GrimSpeak
+# not turtles. verbs.
 
 A controlled natural language that compiles to typed, auditable operations.
 
