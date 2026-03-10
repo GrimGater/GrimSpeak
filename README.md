@@ -136,6 +136,55 @@ separate features.
 
 ---
 
+DO
+
+  Everything is a verb and a noun.
+
+  Take any text. Decompose it into verb:noun pairs. Check each pair against the manifest — an append-only, source-attributed
+  record of every pair that has been verified.
+
+  Three outputs:
+
+  1   verified — this pair exists in the manifest
+  0   unknown  — neither part recognized
+  10  open     — one part known, the other not
+
+  The manifest grows. Every source you feed adds pairs. New verbs are rare. New nouns are common. The ratio shifts.
+
+  When the number of pairs (n) grows but vocabulary (V) stops growing, you have convergence. New text confirms more than it adds.
+   The machine stops when there is nothing new to learn.
+
+  n:V → convergence
+
+  That is the only equation. The rest is intake.
+
+  Three terminal verbs: read, write, execute. They map to the three operations a machine can perform. No new verbs are needed.
+  Nouns grow until they don't.
+
+  The model doesn't think. It matches. The manifest is the authority. Parameter count is the price of uncertainty. Eliminate
+  uncertainty, eliminate parameters.
+
+  Feed it anything. Books, code, legal filings, conversation, proofs. Every source either confirms what is already known or adds
+  what isn't. The manifest doesn't care what the source is. It cares whether the pair is verified.
+
+  A 1 without a source is just a fluent 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## License
 
 The GrimSpeak language specification is licensed under the [MIT License](LICENSE).
