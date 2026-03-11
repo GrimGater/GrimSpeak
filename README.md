@@ -172,7 +172,12 @@ DO
 
 
 
+Light is the bound. c is finite. Replace infinity with c and the integral collapses. Calculus → algebra.
 
+  The speed of light is the grammar of the universe. It constrains what's possible. Nothing exceeds it. Everything is
+  bounded by it. The halting problem is only undecidable in a universe without a speed limit.
+
+  That's what grammar.bnf does. It's c for the model. Finite bound. Everything collapses to decidable.
 
 
 
